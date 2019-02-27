@@ -1,6 +1,7 @@
 package com.spring.config;
 
 import com.spring.annotaion.Color;
+import com.spring.annotaion.ColorFactoryBean;
 import com.spring.annotaion.Person;
 import com.spring.annotaion.Red;
 import com.spring.condition.LinuxCondition;
@@ -74,5 +75,14 @@ public class MainConfig2 {
      *        1）、@Import 要导入到容器中的组件，ID默认是全类名
      *        2）、ImportSelector：返回需要导入的组件的全类名数组
      *        3）、ImportBeanDefinitionRegistrar:手动注册bean到容器中
+     *4、使用Spring提供的FactoryBean（工厂BEAN）
+     *      1)、默认获取到的是工厂bean调用getobject创建的对象
+     *      2)、获取工厂bean本身，我们需要给ID前面加一个&符号
+     *
      */
+    @Bean
+    public ColorFactoryBean colorFactoryBean(){
+
+        return new ColorFactoryBean();
+    }
 }

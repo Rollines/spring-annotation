@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0d3c7d1-2fef-4d22-8e44-bc09e30b8567" name="Default Changelist" comment="" />
+    <list default="true" id="c0d3c7d1-2fef-4d22-8e44-bc09e30b8567" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/annotaion/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/annotaion/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/annotaion/ColorFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/config/MainConfigOfLifeCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest_LifeCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/config/MainConfig2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/config/MainConfig2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/config/MainConfig2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spring/config/MainConfig2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/spring/annotaion/IOCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/spring/annotaion/IOCTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,86 +22,99 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="316">
+              <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#629#658#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/config/MyTypeFileter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/config/MainConfig2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+            <state relative-caret-position="181">
+              <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/config/MainConfigOfLifeCycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#841#842#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/config/MainConfig2.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest_LifeCycle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="788">
-              <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+            <state relative-caret-position="600">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1407#1408#0" expanded="true" />
-                <element signature="e#1457#1458#0" expanded="true" />
-                <element signature="e#1510#1511#0" expanded="true" />
-                <element signature="e#1544#1545#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/RainBow.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Car.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/condition/MyImportBeanDefinitionRegistrar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/condition/MyImportSelector.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/ColorFactoryBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="256">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Blue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -137,6 +161,9 @@
       <find>LinuxCondition</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -153,9 +180,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/spring/condition/WindowsCondition.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/spring/condition/LinuxCondition.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/spring/condition/MyImportSelector.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/spring/condition/MyImportBeanDefinitionRegistrar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/annotaion/ColorFactoryBean.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/spring/config/MainConfig2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/annotaion/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/annotaion/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/config/MainConfigOfLifeCycle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest_LifeCycle.java" />
       </list>
     </option>
   </component>
@@ -165,12 +197,13 @@
     <option name="width" value="1884" />
     <option name="height" value="1177" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,13 +347,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551174561673" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551250689471" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -336,7 +369,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IOCTest.testImport">
+  <component name="RunManager" selected="JUnit.IOCTest_LifeCycle.test01">
     <configuration name="IOCTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springannotation" />
       <extension name="coverage">
@@ -352,7 +385,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOCTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IOCTest_LifeCycle.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springannotation" />
       <extension name="coverage">
         <pattern>
@@ -361,7 +394,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.spring.annotaion" />
-      <option name="MAIN_CLASS_NAME" value="com.spring.annotaion.IOCTest" />
+      <option name="MAIN_CLASS_NAME" value="com.spring.annotaion.IOCTest_LifeCycle" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -418,11 +451,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IOCTest_LifeCycle.test01" />
         <item itemvalue="JUnit.IOCTest.testImport" />
         <item itemvalue="JUnit.IOCTest" />
         <item itemvalue="JUnit.IOCTest.test03" />
         <item itemvalue="JUnit.IOCTest.test02" />
-        <item itemvalue="JUnit.IOCTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -437,28 +470,11 @@
       <option name="presentableId" value="Default" />
       <updated>1551141533209</updated>
       <workItem from="1551141537056" duration="15171000" />
+      <workItem from="1551227207893" duration="4827000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IOCTest_testImport - 2019.02.26 at 16h 13m 19s.xml">
-      <configuration name="IOCTest.testImport" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest - 2019.02.26 at 16h 15m 14s.xml">
-      <configuration name="IOCTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_testImport - 2019.02.26 at 16h 17m 07s.xml">
-      <configuration name="IOCTest.testImport" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_testImport - 2019.02.26 at 16h 17m 57s.xml">
-      <configuration name="IOCTest.testImport" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_testImport - 2019.02.26 at 16h 29m 37s.xml">
-      <configuration name="IOCTest.testImport" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_testImport - 2019.02.26 at 16h 30m 57s.xml">
-      <configuration name="IOCTest.testImport" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="IOCTest - 2019.02.26 at 16h 32m 35s.xml">
       <configuration name="IOCTest" configurationId="JUnit" />
     </history-entry>
@@ -471,27 +487,39 @@
     <history-entry file="IOCTest_testImport - 2019.02.26 at 17h 34m 02s.xml">
       <configuration name="IOCTest.testImport" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="IOCTest_testImport - 2019.02.27 at 10h 36m 07s.xml">
+      <configuration name="IOCTest.testImport" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_testImport - 2019.02.27 at 11h 33m 22s.xml">
+      <configuration name="IOCTest.testImport" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_LifeCycle_test01 - 2019.02.27 at 14h 37m 07s.xml">
+      <configuration name="IOCTest_LifeCycle.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_LifeCycle_test01 - 2019.02.27 at 14h 39m 49s.xml">
+      <configuration name="IOCTest_LifeCycle.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_LifeCycle_test01 - 2019.02.27 at 14h 41m 47s.xml">
+      <configuration name="IOCTest_LifeCycle.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_LifeCycle_test01 - 2019.02.27 at 14h 50m 30s.xml">
+      <configuration name="IOCTest_LifeCycle.test01" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15171000" />
+    <option name="totallyTimeSpent" value="19998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="23" width="1884" height="1177" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13913043" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1402174" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32924527" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.46509433" />
@@ -499,24 +527,29 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32924527" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32924527" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/NullPerson.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/NullPerson.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -655,51 +688,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Red.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Yellow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/config/MyTypeFileter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
+        <state relative-caret-position="650">
           <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/condition/MyImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Blue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -710,21 +705,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/condition/MyImportBeanDefinitionRegistrar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="575">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#629#658#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/condition/MyImportBeanDefinitionRegistrar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/condition/MyImportSelector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        <state relative-caret-position="550">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Blue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Yellow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Red.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/ColorFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -733,14 +778,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/config/MainConfig2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="788">
-          <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+        <state relative-caret-position="181">
+          <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1407#1408#0" expanded="true" />
-            <element signature="e#1457#1458#0" expanded="true" />
-            <element signature="e#1510#1511#0" expanded="true" />
-            <element signature="e#1544#1545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/annotaion/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/config/MainConfigOfLifeCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest_LifeCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
