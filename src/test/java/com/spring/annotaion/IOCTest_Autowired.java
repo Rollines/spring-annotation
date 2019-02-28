@@ -21,6 +21,17 @@ public class IOCTest_Autowired {
         //BookDao bean = applicationContext.getBean(BookDao.class);
         //System.out.println(bean);
 
+
+        Boss boss = applicationContext.getBean(Boss.class);
+        System.out.println(boss);
+
+        Car car = applicationContext.getBean(Car.class);
+        System.out.println(car);
+
+        //[标注在方法位置]：@Bean+方法参数；
+        Color color = applicationContext.getBean(Color.class);
+        System.out.println(color);
+        System.out.println(applicationContext);
         applicationContext.close();
     }
 }

@@ -1,5 +1,7 @@
 package com.spring.config;
 
+import com.spring.annotaion.Car;
+import com.spring.annotaion.Color;
 import com.spring.dao.BookDao;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -31,7 +33,7 @@ import org.springframework.stereotype.Component;
  * 2）、Spring还支持使用@Resource(JSR250)和@Inject(JSR330)[java规范的注解]
  * 		@Resource:
  * 			可以和@Autowired一样实现自动装配功能；默认是按照组件名称进行装配的；
- * 			没有能支持@Primary功能没有支持@Autowired（reqiured=false）;
+ * 			没有能支持@Primary功能没有支持@Autowired（reqiured=false）;<重点></>
  * 		@Inject:
  * 			需要导入javax.inject的包，和Autowired的功能一样。没有required=false的功能；
  *  @Autowired:Spring定义的； @Resource、@Inject都是java规范
@@ -50,7 +52,7 @@ import org.springframework.stereotype.Component;
  * 			ApplicationContextAware==》ApplicationContextAwareProcessor；
  */
 @Configuration
-@ComponentScan({"com.spring.service","com.spring.Controller","com.spring.dao"})
+@ComponentScan({"com.spring.service","com.spring.Controller","com.spring.dao","com.spring.annotaion"})
 public class MainConifgOfAutowired {
 
 
@@ -60,6 +62,19 @@ public class MainConifgOfAutowired {
         BookDao bookDao = new BookDao();
         bookDao.setLable("2");
         return bookDao;
+    }
+
+    /**
+     * @Bean标注的方法创建对象的时候，方法参数的值从容器中获取
+     * @param car
+     * @return
+     */
+    @Bean
+    public Color color(Car car){
+        Color color = new Color();
+        color.setCar(car);
+
+        return color;
     }
 
 }
