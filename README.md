@@ -52,3 +52,13 @@
 25、Spring注解驱动开发_自动装配-@Profile根据环境注册bean
 
 26、Spring注解驱动开发_IOC-小结
+
+27、Spring注解驱动开发_AOP-AOP功能测试
+
+28、Spring注解驱动开发_[源码]-AOP原理-@EnableAspectJAutoProxy
+
+29、Spring注解驱动开发_[源码]-AOP原理-AnnotationAwareAspectJAutoProxyCreator分析
+
+30、Spring注解驱动开发_[源码]-AOP原理-注册AnnotationAwareAspectJAutoProxyCreator
+
+31、Spring注解驱动开发_[源码]-AOP原理AnnotationAwareAspectJAutoProxyCreator执行时机                        
