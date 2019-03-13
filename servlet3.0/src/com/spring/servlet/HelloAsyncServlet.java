@@ -12,6 +12,9 @@ import java.io.IOException;
 /**
  * @author chenjunlin
  * @date 2019-03-13
+ *
+ *
+ * 异步处理工具
  */
 
 @WebServlet(value="/async",asyncSupported=true)
