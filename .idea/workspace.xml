@@ -7,45 +7,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0d3c7d1-2fef-4d22-8e44-bc09e30b8567" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/effective/Generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/effective/LinkedHashMapSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/effective/MyDynamicProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/effective/PhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/effective/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/effective/VolitailTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/effective/WordList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Factory/Factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Factory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Factory/src/main/java/cn/factory/BossAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Factory/src/main/java/cn/factory/BossFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Factory/src/main/java/cn/factory/FactoryBossAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/leetcode联系.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/leetcode/BFSDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/leetcode/CountNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/leetcode/EnAndDeQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/leetcode/FindSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/leetcode/LeetCoder5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/leetcode/LengthOfLongest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/leetcode/MinStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/leetcode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/leetcode/StackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/leetcode/TestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/leetcode/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/effective/EqualsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/effective/LockFairTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/effective/ReenterLockCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/effective/ThreadSafeSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/effective/UsualSemaphoreSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/jikeshijDemo/DemoServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/springmvc_annotaion_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/springmvc_annotaion_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SpringSource.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dbconfig.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/person.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-annotaion/springmvc-annotaion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-annotaion/springmvc-annotaion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-annotaion/springmvcannotaion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-annotaion/springmvcannotaion.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/springmvc-annotaion/target/" />
+    <ignored path="$PROJECT_DIR$/leetcoder/target/" />
+    <ignored path="$PROJECT_DIR$/leetcode/target/" />
+    <ignored path="$PROJECT_DIR$/Factory/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/PhoneNumber.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/MinStackDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="875">
-              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+            <state relative-caret-position="925">
+              <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/Generic.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="500">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,94 +81,69 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/MyDynamicProxy.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/CountNodes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
-                <element signature="e#708#709#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="675">
+              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/LinkedHashMapSample.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/FindSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="899">
-              <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="600">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/VolitailTest.java">
+        <entry file="file://$PROJECT_DIR$/Factory/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Factory/src/main/java/cn/factory/BossAbstractFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="125">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/Stack.java">
+        <entry file="file://$PROJECT_DIR$/Factory/src/main/java/cn/factory/BossFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/WordList.java">
+        <entry file="file://$PROJECT_DIR$/Factory/src/main/java/cn/factory/FactoryBossAbstract.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="510">
+              <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/config/MainConfigOfLifeCycle.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/LeetCoder5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1000">
-              <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+            <state relative-caret-position="196">
+              <caret line="63" column="18" lean-forward="true" selection-start-line="60" selection-end-line="63" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springmvc-annotaion/src/com/springmvc/service/HelloService.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/javax/swing/tree/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springmvc-annotaion/src/com/springmvc/service/DeferredResultQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="325">
+              <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -171,6 +173,7 @@
       <find>ApplicationEventMulticaster</find>
       <find>ApplicationListener</find>
       <find>getRootConfigClasses</find>
+      <find>object key</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -182,28 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest_Aop.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/aop/LogAspects.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/aop/MathCalculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/aop/AOP原理" />
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/config/MainConfigOfAOP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/tx/UserDao.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest_Tx.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/tx/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/tx/TxConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/ext/MyBeanFactoryPostProcessor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/ext/ExtConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/ext/MyBeanDefinitionRegistryPostProcessor.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/spring/annotaion/IOCTest_Ext.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/ext/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/ext/MyApplicationListener.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/SpringSource.txt" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/servlet3.0/web/index.jsp" />
-        <option value="$PROJECT_DIR$/servlet3.0/src/com/spring/service/HelloServiceImpl.java" />
-        <option value="$PROJECT_DIR$/servlet3.0/src/com/spring/service/AbstractHelloService.java" />
-        <option value="$PROJECT_DIR$/servlet3.0/src/com/spring/service/HelloServiceExt.java" />
         <option value="$PROJECT_DIR$/servlet3.0/src/META-INF/services/javax.servlet.ServletContainerInitializer" />
         <option value="$PROJECT_DIR$/servlet3.0/src/com/spring/servlet/HelloServlet.java" />
         <option value="$PROJECT_DIR$/servlet3.0/src/com/spring/servlet/MyServletContainerInitializer.java" />
@@ -230,9 +211,31 @@
         <option value="$PROJECT_DIR$/src/main/java/com/spring/effective/Stack.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/spring/effective/WordList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/spring/effective/VolitailTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/effective/Generic.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/spring/effective/MyDynamicProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/spring/effective/LinkedHashMapSample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/effective/Generic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/effective/EqualsDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/jikeshijDemo/DemoServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/effective/ThreadSafeSample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/effective/LockFairTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/effective/ReenterLockCondition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/effective/UsualSemaphoreSample.java" />
+        <option value="$PROJECT_DIR$/leetcoder/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode/EnAndDeQueue.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode/TestQueue.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode/BFSDemo.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode/TestStack.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode/StackDemo.java" />
+        <option value="$PROJECT_DIR$/leetcode/leetcode联系.txt" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode/MinStackDemo.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode/LengthOfLongest.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode/Solution.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode/LeetCoder5.java" />
+        <option value="$PROJECT_DIR$/Factory/src/main/java/cn/factory/BossAbstractFactory.java" />
+        <option value="$PROJECT_DIR$/Factory/src/main/java/cn/factory/BossFactory.java" />
+        <option value="$PROJECT_DIR$/Factory/src/main/java/cn/factory/FactoryBossAbstract.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode/CountNodes.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode/FindSolution.java" />
       </list>
     </option>
   </component>
@@ -255,6 +258,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,6 +269,41 @@
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
               <item name="springannotation" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springannotation" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springannotation" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springannotation" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springannotation" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springannotation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -296,16 +335,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springannotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="effective" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
@@ -316,14 +345,15 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553569873732" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553680552458" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Factory/src/main/java/cn/factory" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -334,6 +364,9 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.spring.annotaion" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Factory/src/main/java/cn/factory" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -348,13 +381,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedHashMapSample">
-    <configuration name="Generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring.effective.Generic" />
-      <module name="springannotation" />
+  <component name="RunManager" selected="Application.BossFactory">
+    <configuration name="BossAbstractFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.factory.BossAbstractFactory" />
+      <module name="Factory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spring.effective.*" />
+          <option name="PATTERN" value="cn.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,12 +395,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashMapSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring.effective.LinkedHashMapSample" />
-      <module name="springannotation" />
+    <configuration name="BossFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.factory.BossFactory" />
+      <module name="Factory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spring.effective.*" />
+          <option name="PATTERN" value="cn.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -375,12 +408,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyDynamicProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring.effective.MyDynamicProxy" />
-      <module name="springannotation" />
+    <configuration name="LeetCoder5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LeetCoder5" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spring.effective.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,12 +421,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VolitailTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring.effective.VolitailTest" />
-      <module name="springannotation" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Solution" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spring.effective.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -401,12 +434,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring.effective.WordList" />
-      <module name="springannotation" />
+    <configuration name="StackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.StackDemo" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spring.effective.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,11 +470,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedHashMapSample" />
-        <item itemvalue="Application.MyDynamicProxy" />
-        <item itemvalue="Application.VolitailTest" />
-        <item itemvalue="Application.Generic" />
-        <item itemvalue="Application.WordList" />
+        <item itemvalue="Application.BossFactory" />
+        <item itemvalue="Application.BossAbstractFactory" />
+        <item itemvalue="Application.LeetCoder5" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.StackDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -470,17 +503,15 @@
       <workItem from="1552535346896" duration="2573000" />
       <workItem from="1553154729449" duration="5510000" />
       <workItem from="1553491498120" duration="6059000" />
-      <workItem from="1553559540008" duration="3635000" />
+      <workItem from="1553559540008" duration="4785000" />
+      <workItem from="1553647299794" duration="5469000" />
+      <workItem from="1553667932367" duration="4535000" />
+      <workItem from="1554685209176" duration="12263000" />
+      <workItem from="1554772277444" duration="1053000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IOCTest_Aop_test01 - 2019.02.28 at 14h 36m 20s.xml">
-      <configuration name="IOCTest_Aop.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_Tx_test01 - 2019.03.06 at 09h 09m 53s.xml">
-      <configuration name="IOCTest_Tx.test01" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="IOCTest_Tx_test01 - 2019.03.07 at 14h 40m 47s.xml">
       <configuration name="IOCTest_Tx.test01" configurationId="JUnit" />
     </history-entry>
@@ -505,16 +536,22 @@
     <history-entry file="IOCTest_Ext_test01 - 2019.03.11 at 11h 37m 24s.xml">
       <configuration name="IOCTest_Ext.test01" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="EqualsDemo_TestConcurrentHashMap - 2019.03.27 at 10h 58m 37s.xml">
+      <configuration name="EqualsDemo.TestConcurrentHashMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EqualsDemo_TestConcurrentHashMap - 2019.03.27 at 10h 59m 01s.xml">
+      <configuration name="EqualsDemo.TestConcurrentHashMap" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100738000" />
+    <option name="totallyTimeSpent" value="125208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="978" y="23" width="942" height="1177" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.3051225" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33964366" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="3" />
       <window_info id="Image Layers" order="4" />
@@ -525,7 +562,7 @@
       <window_info anchor="bottom" id="Application Servers" order="1" weight="0.32924527" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.19433962" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.46603775" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
@@ -536,7 +573,8 @@
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32924527" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32924527" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="16" weight="0.32924527" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -549,7 +587,7 @@
     </layout>
     <layout-to-restore>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3051225" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33296213" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="3" />
       <window_info id="Image Layers" order="4" />
@@ -560,7 +598,7 @@
       <window_info anchor="bottom" id="Application Servers" order="1" weight="0.32924527" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.19433962" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.46603775" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
@@ -571,7 +609,8 @@
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32924527" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32924527" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="16" weight="0.32924527" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -587,248 +626,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/servlet/servlet3/HelloServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet3.0/src/com/spring/servlet3/service/HelloService.java" />
-    <entry file="file://$PROJECT_DIR$/servlet3.0/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet3.0/src/com/spring/service/HelloServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet3.0/src/com/spring/service/HelloServiceExt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet3.0/src/META-INF/services/javax.servlet.ServletContainerInitializer">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet3.0/src/com/spring/servlet/HelloServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet3.0/src/com/spring/servlet/UserListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet3.0/src/com/spring/servlet/UserFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet3.0/src/com/spring/servlet/UserServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="90" selection-start-line="15" selection-start-column="90" selection-end-line="15" selection-end-column="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet3.0/src/com/spring/servlet/MyServletContainerInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc-annotaion/src/com/springmvc/config/RootConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc-annotaion/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc-annotaion/springmvc-note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="65" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc-annotaion/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc-annotaion/src/com/springmvc/MyWebAppInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-            <element signature="e#907#908#0" expanded="true" />
-            <element signature="e#947#948#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc-annotaion/src/com/springmvc/config/AppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc-annotaion/web/WEB-INF/views/success.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet3.0/src/com/spring/service/AbstractHelloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet3.0/src/com/spring/service/HelloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc-annotaion/src/com/springmvc/controller/MyFirstInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servlet3.0/src/com/spring/servlet/HelloAsyncServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc-annotaion/src/com/springmvc/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springmvc-annotaion/src/com/springmvc/controller/AsyncController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1250">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2175">
-          <caret line="120" column="7" selection-start-line="120" selection-start-column="7" selection-end-line="120" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2025">
-          <caret line="114" column="4" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/aop/MathCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/aop/LogAspects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/config/MainConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
@@ -911,6 +708,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/MyDynamicProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/VolitailTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -928,10 +735,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/WordList.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="207">
+          <caret line="585" column="37" selection-start-line="585" selection-start-column="27" selection-end-line="585" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="314" column="29" selection-start-line="314" selection-start-column="23" selection-end-line="314" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/Generic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/LinkedHashMapSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/EqualsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153925">
+          <caret line="6263" column="20" selection-start-line="6263" selection-start-column="20" selection-end-line="6263" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/jikeshijDemo/DemoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/ThreadSafeSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/ReenterLockCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -962,39 +844,189 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/Generic.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/UsualSemaphoreSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/LockFairTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="255" column="26" selection-start-line="255" selection-start-column="26" selection-end-line="255" selection-end-column="26" />
+          <folding>
+            <element signature="e#5694#5695#0" expanded="true" />
+            <element signature="e#5775#5776#0" expanded="true" />
+            <element signature="e#5811#5812#0" expanded="true" />
+            <element signature="e#5878#5879#0" expanded="true" />
+            <element signature="e#5914#5915#0" expanded="true" />
+            <element signature="e#5960#5961#0" expanded="true" />
+            <element signature="e#8176#8177#0" expanded="true" />
+            <element signature="e#8216#8217#0" expanded="true" />
+            <element signature="e#15850#15851#0" expanded="true" />
+            <element signature="e#15881#15882#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcoder/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/WordList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/TestQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/TestStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/leetcode联系.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/BFSDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/LengthOfLongest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/EnAndDeQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/StackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/MinStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Factory/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Factory/src/main/java/cn/factory/BossAbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Factory/src/main/java/cn/factory/BossFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/javax/swing/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Factory/src/main/java/cn/factory/FactoryBossAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/LeetCoder5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="63" column="18" lean-forward="true" selection-start-line="60" selection-end-line="63" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/CountNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode/FindSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/MyDynamicProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/effective/LinkedHashMapSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="899">
-          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-          </folding>
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
         </state>
       </provider>
     </entry>
